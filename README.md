@@ -1,5 +1,5 @@
 
-# Image Classification using TensorFlow
+# Real-Time eCommerce Dashboard
 
 This project involves creating a dynamic e-commerce dashboard that visualizes real-time data. Built using Power BI and Python, it provides insights into sales, customer behavior, and product performance, helping businesses make data-driven decisions.
 
